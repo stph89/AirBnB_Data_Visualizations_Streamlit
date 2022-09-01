@@ -1,0 +1,112 @@
+room_type,neighbourhood,price,minimum_nights,number_of_reviews,reviews_per_month,calculated_host_listings_count,availability_365,latitude,longitude
+Entire home/apt,Ashfield,177.54,3.97,11.86,1.26,3.61,90.7,-33.89,151.13
+Entire home/apt,Auburn,181.29,2.17,23.21,2.74,9.56,112.44,-33.84,151.07
+Entire home/apt,Bankstown,159.92,3.24,8.44,1.26,10.08,180.68,-33.93,151.03
+Entire home/apt,Blacktown,147.3,3.95,13.63,2.0,2.35,133.82,-33.74,150.9
+Entire home/apt,Botany Bay,186.26,4.35,10.41,1.67,4.71,75.06,-33.93,151.2
+Entire home/apt,Burwood,152.12,3.54,13.91,1.61,9.62,95.99,-33.88,151.1
+Entire home/apt,Camden,142.55,3.27,26.45,1.62,1.09,195.45,-34.03,150.74
+Entire home/apt,Campbelltown,165.68,4.19,10.06,1.0,17.66,287.28,-34.02,150.84
+Entire home/apt,Canada Bay,201.76,4.04,9.87,1.44,10.38,83.56,-33.85,151.12
+Entire home/apt,Canterbury,155.86,3.14,14.28,1.45,2.8,98.2,-33.92,151.11
+Entire home/apt,City Of Kogarah,153.92,3.21,27.06,1.69,2.4,135.62,-33.98,151.11
+Entire home/apt,Fairfield,112.29,1.65,16.29,2.07,6.68,176.0,-33.88,150.93
+Entire home/apt,Holroyd,238.0,2.34,8.03,0.65,21.24,195.93,-33.83,150.98
+Entire home/apt,Hornsby,232.55,2.79,16.77,1.54,3.64,161.27,-33.67,151.11
+Entire home/apt,Hunters Hill,355.97,3.37,8.42,1.09,2.32,94.03,-33.83,151.14
+Entire home/apt,Hurstville,200.99,3.46,9.93,1.51,2.94,131.61,-33.96,151.08
+Entire home/apt,Ku-Ring-Gai,223.24,5.56,9.72,0.95,3.05,105.71,-33.75,151.15
+Entire home/apt,Lane Cove,289.58,5.32,10.48,1.11,2.45,99.96,-33.82,151.17
+Entire home/apt,Leichhardt,254.03,4.6,14.12,0.96,3.29,89.03,-33.87,151.17
+Entire home/apt,Liverpool,171.71,2.25,15.17,1.23,22.49,234.2,-33.94,150.88
+Entire home/apt,Manly,312.71,4.87,9.57,0.77,2.98,82.17,-33.8,151.28
+Entire home/apt,Marrickville,169.92,4.11,14.53,1.16,2.34,77.86,-33.9,151.16
+Entire home/apt,Mosman,353.84,5.17,10.5,0.91,2.89,103.96,-33.83,151.24
+Entire home/apt,North Sydney,232.61,4.85,13.69,1.15,3.25,83.81,-33.84,151.21
+Entire home/apt,Parramatta,153.26,4.56,15.43,2.01,3.83,108.39,-33.81,151.02
+Entire home/apt,Penrith,201.19,2.72,17.34,1.94,3.89,190.07,-33.76,150.72
+Entire home/apt,Pittwater,463.4,4.09,15.23,1.05,6.12,157.25,-33.64,151.32
+Entire home/apt,Randwick,238.23,5.1,8.51,0.72,2.8,69.61,-33.92,151.25
+Entire home/apt,Rockdale,190.62,3.55,14.03,1.55,6.3,111.68,-33.95,151.15
+Entire home/apt,Ryde,159.42,3.69,11.89,1.34,4.63,108.31,-33.8,151.11
+Entire home/apt,Strathfield,147.2,3.05,12.17,2.04,5.76,115.49,-33.87,151.08
+Entire home/apt,Sutherland Shire,242.47,4.27,19.75,1.62,1.28,140.78,-34.05,151.13
+Entire home/apt,Sydney,202.83,4.06,22.51,1.83,5.72,91.32,-33.88,151.21
+Entire home/apt,The Hills Shire,213.55,4.91,20.62,1.71,2.48,186.42,-33.67,150.98
+Entire home/apt,Warringah,305.64,5.15,6.57,0.68,1.82,93.6,-33.76,151.28
+Entire home/apt,Waverley,278.59,4.57,9.57,0.76,3.75,75.1,-33.89,151.27
+Entire home/apt,Willoughby,262.55,6.04,9.65,1.06,4.99,110.56,-33.8,151.19
+Entire home/apt,Woollahra,303.76,5.09,10.91,0.87,4.07,90.34,-33.88,151.25
+Private room,Ashfield,62.99,3.74,8.45,1.0,3.78,113.93,-33.89,151.13
+Private room,Auburn,70.91,2.06,9.23,1.39,3.17,99.77,-33.85,151.06
+Private room,Bankstown,68.41,2.28,7.47,1.01,3.8,187.36,-33.93,151.02
+Private room,Blacktown,64.53,1.84,6.53,1.04,2.87,204.16,-33.75,150.9
+Private room,Botany Bay,81.8,3.73,13.09,1.47,2.91,119.98,-33.93,151.2
+Private room,Burwood,72.95,3.21,6.04,0.97,2.86,99.2,-33.88,151.1
+Private room,Camden,66.83,1.56,4.44,0.47,1.44,239.17,-34.03,150.74
+Private room,Campbelltown,56.26,2.76,7.41,1.06,4.2,157.24,-34.02,150.85
+Private room,Canada Bay,88.06,4.5,7.63,0.85,1.55,89.13,-33.84,151.11
+Private room,Canterbury,71.8,3.16,7.56,1.15,1.79,142.89,-33.92,151.1
+Private room,City Of Kogarah,78.85,3.12,11.91,1.08,1.91,126.96,-33.97,151.11
+Private room,Fairfield,64.19,2.0,6.47,1.02,5.91,162.28,-33.88,150.94
+Private room,Holroyd,55.9,5.32,8.22,0.88,2.55,153.59,-33.83,150.97
+Private room,Hornsby,66.43,2.47,11.2,0.8,2.53,153.01,-33.73,151.08
+Private room,Hunters Hill,93.96,5.52,17.56,1.14,1.59,144.48,-33.83,151.14
+Private room,Hurstville,79.0,3.55,6.99,0.98,2.88,159.73,-33.96,151.08
+Private room,Ku-Ring-Gai,80.89,2.23,9.73,0.87,2.19,147.78,-33.75,151.16
+Private room,Lane Cove,94.37,2.66,14.16,0.99,3.57,110.36,-33.82,151.17
+Private room,Leichhardt,82.0,4.17,19.66,1.18,2.01,107.11,-33.87,151.17
+Private room,Liverpool,70.47,4.2,6.0,0.86,1.75,219.47,-33.93,150.91
+Private room,Manly,100.84,3.53,7.48,0.7,2.25,82.06,-33.8,151.28
+Private room,Marrickville,70.37,3.48,13.03,1.0,1.68,72.96,-33.9,151.16
+Private room,Mosman,112.44,3.84,10.26,0.84,2.12,124.94,-33.83,151.24
+Private room,North Sydney,93.03,4.06,13.22,0.9,1.43,92.33,-33.84,151.21
+Private room,Parramatta,67.94,2.53,6.78,0.99,2.29,128.69,-33.81,151.02
+Private room,Penrith,91.83,3.12,16.02,1.72,2.34,221.79,-33.77,150.73
+Private room,Pittwater,122.57,2.06,16.8,0.99,1.98,171.47,-33.66,151.31
+Private room,Randwick,75.96,4.27,6.96,0.73,2.19,72.52,-33.92,151.24
+Private room,Rockdale,74.55,4.35,14.21,1.29,1.93,100.33,-33.95,151.14
+Private room,Ryde,69.78,2.71,7.46,0.81,2.19,125.98,-33.8,151.11
+Private room,Strathfield,68.18,4.27,8.53,1.13,1.97,113.8,-33.87,151.08
+Private room,Sutherland Shire,83.8,1.72,17.39,1.44,1.63,131.39,-34.04,151.11
+Private room,Sydney,97.83,4.11,12.87,1.22,2.5,71.28,-33.89,151.2
+Private room,The Hills Shire,90.35,1.72,6.17,0.88,1.8,182.54,-33.73,150.99
+Private room,Warringah,82.24,3.81,6.34,0.7,1.41,113.64,-33.76,151.28
+Private room,Waverley,92.8,3.96,6.02,0.65,1.73,59.61,-33.89,151.27
+Private room,Willoughby,81.04,3.79,8.78,0.92,1.97,125.66,-33.8,151.19
+Private room,Woollahra,97.45,3.94,7.53,0.61,1.58,77.98,-33.88,151.25
+Shared room,Ashfield,24.5,4.25,2.8,0.74,25.9,245.65,-33.89,151.12
+Shared room,Auburn,59.9,1.3,6.7,0.82,1.6,23.2,-33.85,151.06
+Shared room,Bankstown,30.0,2.0,0.0,,1.0,84.0,-33.92,151.05
+Shared room,Blacktown,65.0,7.0,0.0,,1.0,97.0,-33.77,150.93
+Shared room,Botany Bay,64.4,2.33,3.07,1.09,6.67,102.93,-33.93,151.19
+Shared room,Burwood,36.67,2.7,5.13,0.61,14.9,97.93,-33.88,151.1
+Shared room,Campbelltown,48.0,1.0,0.0,,1.0,79.0,-34.07,150.79
+Shared room,Canada Bay,54.4,4.2,0.4,0.06,1.2,72.4,-33.84,151.09
+Shared room,Canterbury,105.25,1.88,4.25,0.89,1.62,180.0,-33.91,151.1
+Shared room,City Of Kogarah,29.0,2.0,3.0,0.2,2.0,173.5,-33.97,151.14
+Shared room,Fairfield,22.0,45.5,0.0,,1.0,112.0,-33.88,150.91
+Shared room,Holroyd,31.0,2.2,0.8,1.0,3.4,143.8,-33.83,150.99
+Shared room,Hornsby,66.33,5.67,11.33,2.06,5.33,110.67,-33.73,151.09
+Shared room,Hurstville,44.83,1.67,0.33,0.08,1.33,176.67,-33.96,151.1
+Shared room,Ku-Ring-Gai,92.0,1.0,3.0,0.94,5.0,226.2,-33.74,151.15
+Shared room,Lane Cove,46.25,2.0,2.25,0.26,4.75,288.5,-33.82,151.17
+Shared room,Leichhardt,41.6,1.8,7.6,1.86,1.4,43.2,-33.89,151.15
+Shared room,Liverpool,284.0,1.0,0.0,,1.5,365.0,-33.93,150.94
+Shared room,Manly,114.71,4.71,1.57,0.16,1.29,91.0,-33.8,151.28
+Shared room,Marrickville,72.33,2.58,1.0,0.53,2.25,12.67,-33.91,151.16
+Shared room,Mosman,52.0,11.75,0.5,0.17,6.5,158.0,-33.82,151.24
+Shared room,North Sydney,63.64,2.0,3.73,0.58,2.0,134.64,-33.84,151.21
+Shared room,Parramatta,58.71,2.0,2.07,0.69,1.64,140.0,-33.81,151.01
+Shared room,Pittwater,251.0,1.0,0.0,,1.0,0.0,-33.65,151.3
+Shared room,Randwick,46.71,6.72,1.34,0.73,2.14,85.45,-33.93,151.24
+Shared room,Rockdale,53.56,9.61,2.5,0.27,2.11,78.39,-33.94,151.15
+Shared room,Ryde,46.29,8.0,1.64,0.45,1.21,127.07,-33.8,151.1
+Shared room,Strathfield,288.2,6.0,1.6,0.19,1.2,223.4,-33.87,151.09
+Shared room,Sutherland Shire,65.0,1.0,3.0,3.0,2.0,181.0,-34.05,151.15
+Shared room,Sydney,47.6,5.47,4.15,0.86,6.74,106.93,-33.88,151.2
+Shared room,The Hills Shire,50.0,5.0,0.0,,1.0,0.0,-33.76,151.0
+Shared room,Warringah,30.5,2.0,9.0,0.68,1.0,1.0,-33.75,151.29
+Shared room,Waverley,58.01,4.46,2.2,0.3,4.95,70.47,-33.89,151.27
+Shared room,Willoughby,228.22,4.22,2.33,0.65,1.67,156.11,-33.8,151.18
+Shared room,Woollahra,53.23,4.85,1.15,0.38,1.54,42.15,-33.88,151.26
