@@ -7,7 +7,7 @@
 
 Este proyecto es un procesamiento de datos para la creación de una herramienta para el análisis, visualización y predicción de datos de alquileres de piso para uso vacacional en la ciudad de Sidney (Australia), con base en datos colectados por la página AirBnB durante los años 2011 y 2019.
 
-![Captura de Pantalla 2022-09-01 a la(s) 9 28 39 a  m](https://user-images.githubusercontent.com/110174766/187857252-a2ef03fc-ef21-474f-a587-3576bc0984d4.png)
+![Captura de Pantalla 2022-09-01 a la(s) 9 31 20 a  m](https://user-images.githubusercontent.com/110174766/187858800-43c6ea90-56a3-44f9-bb2c-885c36d11f63.png)
 
 
 ![sydney](https://user-images.githubusercontent.com/110174766/187749402-4aa28644-629c-4d3e-ba2b-bbb6ae12c898.jpeg)
