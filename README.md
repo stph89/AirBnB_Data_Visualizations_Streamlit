@@ -1,13 +1,14 @@
 # Visualization of AirBnB property rental prices and related variables.
 ## Estructura de este repositorio
 
-| Carpeta      | Fichero                      | Descripción                                                       |
-|--------------|------------------------------|-------------------------------------------------------------------|
-| `back-end`   | `Sidney_AirBnB_Project.ipynb`| Exploratory data analysis notebook.        |
-| `data`       | `manage.py`                  | Archivo principal para el funcionamiento del sistema de login.    |
-| `front-end`  | `.gitignore`                 | Para ignorar los archivos sensibles como imégenes.                |
-|              | `requirements.txt`           | Librerías y paquetes utilizados par la creación de este proyecto. |
-|              | `README.md`                  | Descripción de este repositorio                                   |
+| Carpeta      | Fichero                      | Descripción                        |
+|--------------|------------------------------|------------------------------------|
+| `back-end`   | `Sidney_AirBnB_Project.ipynb`| Exploratory data analysis notebook.|
+| `data`       | `.csv`                       |  AirBnB Data in `.csv` format.     |
+| `front-end`  | `main.py`                    | Streamlit dahsboard.               |
+|              | `.gitignore`                 | Ignore sensitive files             |
+|              | `requirements.txt`           | Required packages                  |
+|              | `README.md`                  | Repo's structure                   |
 
 
 ## Installation Packages
