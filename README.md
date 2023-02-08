@@ -1,4 +1,15 @@
 # Visualization of AirBnB property rental prices and related variables.
+## Estructura de este repositorio
+
+| Carpeta                     | Fichero            | Descripción                                                       |
+|-----------------------------|--------------------|-------------------------------------------------------------------|
+| `facial_recognition_webcam` | `facial.py`        | Face recognition system on live video from a local webcam.        |
+| `login_recognition_app`     | `manage.py`        | Archivo principal para el funcionamiento del sistema de login.    |
+|                             | `.gitignore`       | Para ignorar los archivos sensibles como imégenes.                |
+|                             | `requirements.txt` | Librerías y paquetes utilizados par la creación de este proyecto. |
+|                             | `README.md`        | Descripción de este repositorio                                   |
+
+
 ![Captura de Pantalla 2022-09-01 a la(s) 9 31 20 a  m](https://user-images.githubusercontent.com/110174766/187858800-43c6ea90-56a3-44f9-bb2c-885c36d11f63.png)
 
 
