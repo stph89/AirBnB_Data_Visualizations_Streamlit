@@ -1,14 +1,20 @@
 # Visualization of AirBnB property rental prices and related variables.
 ## Estructura de este repositorio
 
-| Carpeta      | Fichero            | Descripción                                                       |
-|--------------|--------------------|-------------------------------------------------------------------|
-| `back-end`   | `facial.py`        | Face recognition system on live video from a local webcam.        |
-| `data`       | `manage.py`        | Archivo principal para el funcionamiento del sistema de login.    |
-| `front-end`  | `.gitignore`       | Para ignorar los archivos sensibles como imégenes.                |
-|              | `requirements.txt` | Librerías y paquetes utilizados par la creación de este proyecto. |
-|              | `README.md`        | Descripción de este repositorio                                   |
+| Carpeta      | Fichero                      | Descripción                                                       |
+|--------------|------------------------------|-------------------------------------------------------------------|
+| `back-end`   | `Sidney_AirBnB_Project.ipynb`| Exploratory data analysis notebook.        |
+| `data`       | `manage.py`                  | Archivo principal para el funcionamiento del sistema de login.    |
+| `front-end`  | `.gitignore`                 | Para ignorar los archivos sensibles como imégenes.                |
+|              | `requirements.txt`           | Librerías y paquetes utilizados par la creación de este proyecto. |
+|              | `README.md`                  | Descripción de este repositorio                                   |
 
+
+## Installation Packages
+  
+* For run theses exploratory data analysis notebook, you require to install the python module modules specified in the file `requirements.txt`.
+
+* You can run `pip install requirements.txt`
 
 
 ## Bussiness Intelligence
