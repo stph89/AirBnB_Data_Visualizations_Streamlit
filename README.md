@@ -1,6 +1,6 @@
 # Visualization of AirBnB property rental prices and related variables.
 
-[Stephany Valderrama](https://github.com/stph89)&nbsp;[Pablo Ruano](https://github.com/PabloRuanoSainz) and [Raúl Múñoz](https://github.com/RaulMuM)  &nbsp;
+[Stephany Valderrama](https://github.com/stph89)&nbsp;, [Pablo Ruano](https://github.com/PabloRuanoSainz) and [Raúl Múñoz](https://github.com/RaulMuM)  &nbsp;
 
 
 ## Estructura de este repositorio
